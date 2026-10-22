@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://fourthcapital.com/sitemap.xml
+Sitemap: https://www.fourthcapitalresearch.com/sitemap.xml
